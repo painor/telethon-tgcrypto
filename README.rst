@@ -25,6 +25,6 @@ Credits
 -  `@lonami <https://github.com/lonami>`__ &
    `contributors <https://github.com/LonamiWebs/Telethon/graphs/contributors>`__
    for making `telethon <https://github.com/LonamiWebs/Telethon>`__
--  `unknown <https://github.com/explore>`__\ `d <https://github.com/delivrance>`__\ `eveloper <https://github.com/explore>`__
+-  `unknown <https://github.com/explore>`__ `d <https://github.com/delivrance>`__\ `eveloper <https://github.com/explore>`__
    for the fast crypto module
 
