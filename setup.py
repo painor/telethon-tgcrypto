@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='telethon-cryptg',
-    version='0.0.2',
+    version='0.0.3',
     description='telethon bindings for the tgcrypto module',
     long_description=open('README.rst').read().strip(),
     author='Painor',
