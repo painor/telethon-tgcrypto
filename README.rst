@@ -1,4 +1,4 @@
-About
+telethon-tgcrypto
 -----
 
 Module ``telethon-tgcrypto`` brings better performance to
@@ -27,4 +27,3 @@ Credits
    for making `telethon <https://github.com/LonamiWebs/Telethon>`__
 -  unknown `developer <https://github.com/explore>`__ for the fast
    crypto module
-
