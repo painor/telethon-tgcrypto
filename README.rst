@@ -1,5 +1,5 @@
 telethon-tgcrypto
------
+*****************
 
 Module ``telethon-tgcrypto`` brings better performance to
 `Telethon <https://github.com/LonamiWebs/Telethon>`__ lib.
@@ -17,7 +17,7 @@ To install this module and patch your Telethon installation just run:
     pip install telethon-tgcrypto
 
 Credits
--------
+^^^^^^^
 
 -  `@painor <https://github.com/painor>`__ for making this module
 -  `@andrew <https://github.com/kittyandrew>`__ for writing this readme
